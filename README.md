@@ -1,13 +1,13 @@
 # VideoClassifier
 A Classifier model to classify the frames of Video
 
-Dependencies
-Opencv
-tensorflow > 2.0
-tqdm
-pickle
-numpy 
-pandas
+Dependencies:
+1. Opencv
+2. tensorflow > 2.0
+3. tqdm
+4. pickle
+5. numpy 
+6. pandas
 
 
 How to use :
